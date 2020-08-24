@@ -1,6 +1,8 @@
 # Description
 
-# Closes issue(s)
+# Related issue(s)
+
+# Related PR(s)
 
 # How to test / repro
 
@@ -15,4 +17,3 @@
 - [ ] I have tested this code
 - [ ] I have updated the Readme
 
-# Other comments

@@ -16,4 +16,4 @@
 ### Checklist
 - [ ] I have tested this code
 - [ ] I have updated the Readme
-
+- [ ] I have added appropriate logging at the correct levels

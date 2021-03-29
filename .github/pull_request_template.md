@@ -15,5 +15,6 @@
 
 ### Checklist
 - [ ] I have tested this code
+- [ ] If this is a bugfix, I've added testing to check this in the future
 - [ ] I have updated the Readme
 - [ ] I have added appropriate logging at the correct levels

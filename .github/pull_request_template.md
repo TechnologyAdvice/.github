@@ -1,3 +1,5 @@
+[PR Guidelines](https://technologyadvice.atlassian.net/wiki/spaces/EN/pages/962560174/PR+Documentation+Review+Guidelines)
+
 ### Description
 
 ### Related issue(s)

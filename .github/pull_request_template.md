@@ -1,5 +1,7 @@
 Please follow our [PR Guidelines](https://technologyadvice.atlassian.net/wiki/spaces/EN/pages/962560174/PR+Documentation+Review+Guidelines) for submitting or reviewing a PR
 
+NOTE: If an assignee was automatically added to this PR, the user opening the PR should get both Reviewer and Assignee approval before merging.
+
 ### Description
 
 ### Related issue(s)

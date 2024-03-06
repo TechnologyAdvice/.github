@@ -1,4 +1,4 @@
-Please follow our [PR Guidelines](https://technologyadvice.atlassian.net/wiki/spaces/EN/pages/962560174/PR+Documentation+Review+Guidelines) for submitting or reviewing a PR
+Please follow our [PR Documentation and Review Guidelines](https://docs.run.relay.cool/development-practices/pr-documentation-and-review-guidelines) for submitting or reviewing a PR
 
 ### Description
 
